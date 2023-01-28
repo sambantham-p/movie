@@ -1,0 +1,16 @@
+.navItem{
+    color:bisque;
+    display: inline-flex;
+    gap: 70px;
+    margin-left: 25px;
+}
+
+.logo{
+    left: 10px;
+    font-family: fantasy;
+    font-weight: bold !important;
+    color:rgb(227, 26, 26);
+    padding-left: 30px;
+    padding-right: 55px;
+}
+

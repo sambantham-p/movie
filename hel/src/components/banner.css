@@ -1,0 +1,25 @@
+.banner{
+    
+    margin-top:325px;
+    margin-left: 60px;
+    color: azure;
+    width:60rem;
+    font-size:15px;
+    padding-bottom: 5px;
+    border: 2px solid rgb(10, 10, 10);
+    background: linear-gradient( 355deg, transparent, rgb(37 37 37 / 61%), #111 );
+    height: 14rem;
+}
+.content{
+    padding-left: 10px;
+    width: 28rem;
+
+}
+.description{
+    color: beige;
+    font-size: 18px;
+    left: 100px;
+    position: absolute;
+    width: 34rem;
+    padding-top: 115px;
+}
